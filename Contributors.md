@@ -11,7 +11,6 @@
 - [Gico Carlo Evangelista] (https://github.com/RiceAbove)
 - [JThissen] (https://github.com/JThissen)
 - [Joseph Rodrigues] (https://github.com/JostonR)
-- [Indigo Clement] (https://github.com/FibreGlass72)
 - Robert
   [Carlos Peña] I(https://github.com/cerl0z)
   [Himanshu Janbandhu](https://github.com/HimanshuJanbandhu)
